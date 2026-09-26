@@ -1,9 +1,5 @@
 # Gerenciamento de Aquisições (Project Procurement Management)
 
-> **Repository Description**: Comprehensive presentation and reference documentation on Project Procurement Management based on the PMBOK Guide, featuring core concepts, procurement processes (Plan, Conduct, Control, Close), and real-world case studies from aerospace, automotive, and food industries.
-
----
-
 ## Table of Contents / Sumário
 - [English Version](#english-version)
   - [About the Project](#about-the-project)
